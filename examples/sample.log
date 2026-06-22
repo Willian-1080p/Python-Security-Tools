@@ -1,0 +1,4 @@
+2026-06-20 INFO User logged in
+2026-06-20 ERROR Failed login from 192.168.1.10
+2026-06-20 WARNING Access denied to admin panel
+2026-06-20 INFO Backup completed
